@@ -323,6 +323,7 @@
     }
     .menu a ion-icon {
       position: absolute;
+      
     }
   
     @keyframes slide1 {
@@ -379,7 +380,7 @@
     }
     .close {
       z-index: 34;
-  
+      margin-right: 140px;
       color: white;
       background-color: black;
     }
@@ -467,6 +468,7 @@
     }
     .close {
       z-index: 34;
+      margin-right: 20px;
     }
   
     .search a {
